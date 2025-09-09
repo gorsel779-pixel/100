@@ -1,7 +1,7 @@
 import { ImageAnalysis, Category } from '../types';
 
 // Emergent API anahtarı
-const GEMINI_API_KEY = 'sk-emergent-85c6fFb5d8aAfF0350';
+const GEMINI_API_KEY = 'AIzaSyDRWUqBFnoROB0aeX6JKs_ZNk_Wb94BkjI';
 
 export class GeminiService {
   private apiKey: string;
